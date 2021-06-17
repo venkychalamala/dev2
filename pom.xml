@@ -11,6 +11,11 @@
   <name>prj3</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
+   <scm>
+	<connection>scm:https://github.com/venkychalamala/dev2.git</connection>
+	<url>scm:https://github.com/venkychalamala/dev2.git</url>
+	<developerConnection>scm:https://github.com/venkychalamala/dev2.git</developerConnection>
+   </scm>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
